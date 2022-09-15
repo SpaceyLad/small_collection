@@ -13,5 +13,5 @@ Make sure to run as root if ran outside home directory!
 bash vsav.sh hash.yar /home
 bash [file] [rule] [directory]
 
-## Screenshots
+## Screenshot
 ![image](https://user-images.githubusercontent.com/87969837/190512358-6d9455cc-326b-4117-988b-f25b2d2284d0.png)
