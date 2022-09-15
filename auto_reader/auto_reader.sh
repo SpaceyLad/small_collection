@@ -1,3 +1,4 @@
+ GNU nano 6.4                                                            auto_reader.sh                                                                      
 #!/bin/bash
 
 sleep .5
@@ -17,11 +18,11 @@ echo -e "\nDownloading $1"
 curl -s $1 > file_with_content.txt
 echo "Done!"
 
-echo "Opening the downloaded file in 3 seconds.."
+echo -e "Opening the downloaded file in 3 seconds..\n"
 sleep 3
 cat file_with_content.txt
 
-echo "Deleting file in 3 seconds.."
+echo -e "\nDeleting file in 3 seconds.."
 sleep 3
 rm file_with_content.txt
 
