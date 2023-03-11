@@ -16,3 +16,8 @@ It downloads, reads then deletes a file. Don't question the name.
 https://github.com/SpaceyLad/small_collection/tree/main/clean_update
 
 Runs a couple of scripts to keep your system updated and clean :]
+
+## [C] game_simulation_3
+https://github.com/SpaceyLad/small_collection/tree/main/game_simulation_3
+
+Run plenty of simulations! Now with FAST edition!
